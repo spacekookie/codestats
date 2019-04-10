@@ -1,7 +1,8 @@
 [package]
-name = "code-stats"
+name = "cs"
+description = "A small tool to count the occurrences of words in an input stream"
 version = "0.1.0"
+license = "GPL-3.0"
 authors = ["Katharina Fey <kookie@spacekookie.de>"]
 edition = "2018"
 
-[dependencies]
